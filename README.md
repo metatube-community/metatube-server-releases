@@ -1,8 +1,12 @@
-# JavTube Server Releases
+# JavTube.Server.Releases
 
 Just Another Video Tube Server Releases.
+
+## Usage
+
+- [Deployment](https://github.com/javtube/jellyfin-plugin-javtube/wiki/%E5%90%8E%E7%AB%AF%E9%83%A8%E7%BD%B2)
 
 ## Docker Images
 
 - [DockerHub](https://hub.docker.com/r/javtube/javtube-server)
-- [GHCR](https://github.com/javtube/javtube-sdk-go/pkgs/container/javtube-server)
+- [GitHub Container Registry](https://github.com/javtube/javtube-sdk-go/pkgs/container/javtube-server)
