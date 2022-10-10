@@ -4,7 +4,7 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/javtube/javtube-server-releases/total?logo=Betfair&style=flat-square)](https://github.com/javtube/javtube-server-releases/releases)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/javtube/javtube-server-releases?color=15BFFF&logo=smartthings&sort=semver&style=flat-square)](https://github.com/javtube/javtube-server-releases/releases)
 
-Just Another Video Tube Server Releases.
+Just Another Video Tube Server Binary Releases.
 
 ## Docker Images
 
