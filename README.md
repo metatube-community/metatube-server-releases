@@ -8,5 +8,4 @@ MetaTube Server Binary Releases.
 
 ## Docker Images
 
-- [Docker Hub](https://hub.docker.com/r/metatube/metatube-server)
 - [GitHub Container Registry](https://github.com/metatube-community/metatube-sdk-go/pkgs/container/metatube-server)
